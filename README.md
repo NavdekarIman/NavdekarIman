@@ -20,7 +20,7 @@
     <a href="https://www.codechef.com/users/iman_navdekar" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"></a>
     <a href="https://leetcode.com/iman_navdekar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"></a>
   </p>
-  <img align="right" alt="coding" width="400" src="![image](https://github.com/NavdekarIman/NavdekarIman/assets/110827673/314778a9-517c-45c0-af29-ea20c252c2c9)">
+  <img align="right" alt="coding" width="400" src="https://github.com/NavdekarIman/NavdekarIman/assets/110827673/314778a9-517c-45c0-af29-ea20c252c2c9">
   <h3 align="left">About Me:</h3>
   <p>
     Hey there! I'm a frontend developer based in India, passionate about creating engaging and user-friendly web experiences. I'm enthusiastic, energetic, and active, always striving to achieve my goals with a positive outlook.
